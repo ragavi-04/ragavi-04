@@ -9,6 +9,11 @@ Software Engineer
 - 📫 How to reach me: **ragavimurali098@gmail.com**
 - 😄 Pronouns: Techie
 
+##  About Me
+
+My journey into the world of technology began at the age of 10 when I got my first computer. However, my passion for software development truly ignited through my love for video games. That passion drove me to pursue creating software that serves as a bridge between computers and humans, delivering solutions through innovative programs.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ragavi-m-a9b58725b) 
 
