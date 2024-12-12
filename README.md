@@ -11,7 +11,7 @@ Software Engineer
 
 ##  About Me
 
-My journey into the world of technology began at the age of 10 when I got my first computer. However, my passion for software development truly ignited through my love for video games. That passion drove me to pursue creating software that serves as a bridge between computers and humans, delivering solutions through innovative programs.
+My journey into the world of technology began at the age of 12 when I got my first computer. However, my passion for software development truly ignited through my love for video games. That passion drove me to pursue creating software that serves as a bridge between computers and humans, delivering solutions through innovative programs.
 
 
 ## 🌐 Socials:
